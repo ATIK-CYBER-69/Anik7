@@ -75,12 +75,12 @@ logo=(f"""
 def menu():
     clear()
  
-    print(f'{G1}[{A}1{G1}]{G1} APROVAL YOUR KEY>> ANIKVAI@#98')
+    print(f'{G1}[{A}1{G1}]{G1} APROVAL >> DONE √')
      
-    print(f'{G1}[{A}*{G1}]{G1} FACEBOOK HACK ')
-    print(f'{G1}[{A}*{G1}]{G1} FF HACK')
-    print(f'{G1}[{A}*{G1}]{G1} FACEBOOK CLONE')
-    print(f'{G1}[{A}*{G1}]{G1} EXIT TOOL ')
+    print(f'{G1}[{A}1{G1}]{G1} FACEBOOK HACK UPDATE AND TRY ')
+    print(f'{G1}[{A}2{G1}]{G1} FF HACK UPDATE AND TRY ')
+    print(f'{G1}[{A}3{G1}]{G1} FACEBOOK CLONE')
+    print(f'{G1}[{A}4{G1}]{G1} EXIT TOOL ')
     linex()
     sex = input(f'{G1}[{A}?{G1}]{G1} CHOICE {A}➢{G1} ')
     if sex in ['1']:
